@@ -31,7 +31,7 @@ function getLocation() {
         break;
     }
   }
-
+getLocation()
 //function myMap() {
  //   var mapProp = {
  //       center:new google.maps.LatLng(51.508742,-0.120850),
